@@ -1,5 +1,5 @@
 # oraclecomput 🐧
-oraclecomput : #oracle_linux #compute #virtual_machine
+oraclecomput : #oracle_linux8 #compute #virtual_machine #bash #ssh key-pair
 
 ## Objective
 Create a linux virtual machine in Azure
