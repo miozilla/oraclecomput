@@ -7,6 +7,7 @@ Create a linux virtual machine in Azure
 ## Similar Skills Set
 - GCP : Compute Engine
 - AWS : EC2
+- Linux : RHEL, SUSE, Ubuntu, CentOS, Debian
 
 ## Oracle Linux 8.10 (LVM) Virtual Machine Compute
 
