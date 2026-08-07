@@ -4,6 +4,10 @@ oraclecomput : #oracle_linux8 #compute #virtual_machine #bash #ssh key-pair
 ## Objective
 Create a linux virtual machine in Azure
 
+## Similar Skills Set
+- GCP : Compute Engine
+- AWS : EC2
+
 ## Oracle Linux 8.10 (LVM) Virtual Machine Compute
 
 ![Screenshot_oraclecomput001](./oraclecomput001.png)
